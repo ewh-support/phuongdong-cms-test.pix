@@ -9,5 +9,4 @@ CKEDITOR.editorConfig = function( config ) {
 	// config.uiColor = '#AADC6E';
 	
 	config.fontSize_defaultLabel = '15px';
-	config.width = '700px';
 };
